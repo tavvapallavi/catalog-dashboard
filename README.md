@@ -18,4 +18,6 @@ Data comes from the DummyJSON API; edits are kept in memory (the API does not sa
     npm test
 
 ## Screenshots
-(add here)
+<img width="979" height="845" alt="Screenshot 2026-10-02 154047" src="https://github.com/user-attachments/assets/f965091b-9b08-4e3f-afb7-fc332399ddac" />
+<img width="1841" height="882" alt="Screenshot 2026-10-02 153855" src="https://github.com/user-attachments/assets/7ae4a58a-e993-4116-86e2-19367b2daa41" />
+
